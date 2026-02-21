@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_logo.svg =32x)
+![Python](https://raw.githubusercontent.com/python/dev/master/brand/artwork/typography/Python-Logo/Python-Logo-SVG/Python-Logo-SVG.svg =32x)
+![R](https://www.r-project.org/logo/Rlogo.svg =32x)
+![MATLAB](https://www.mathworks.com/company/images/global_logo_header.png =32x)
