@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ED1B24?style=for-the-badge&logo=mathworks&logoColor=white)
 ---
+### - Has Special interests within🔎:
+- Control systems engineering
+- Data analytics
+- Machine learning
+- Quantitative finance
