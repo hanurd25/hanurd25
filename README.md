@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # HELLO! 👋
 
-### - I am a Cybernetics & Robotics student based in Trondheim 📍
+### - Cybernetics & Robotics student based in Trondheim 📍
 
 ---
 
