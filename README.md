@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 🛠️ The  languages & tools I'm familiar with:
 -->
-#  Welcome!✨
+#  ✨!
 
 ### - Cybernetics & robotics student based in Trondheim 📍
 
