@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### - Operating Systems I use :
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows 11-0078D4?style=flat&logo=windows11&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
 
 <!--
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
