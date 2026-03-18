@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![EasySoft](https://img.shields.io/badge/EasySoft-003366?style=for-the-badge)  
 ![RoboDK](https://img.shields.io/badge/RoboDK-0099FF?style=for-the-badge)
 ![ROS 2](https://img.shields.io/badge/ROS_2-34455e?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoCol)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
