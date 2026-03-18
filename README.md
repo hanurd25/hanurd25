@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 ### - industrial programming
-Siemens `Step 7` and  `LogoSoft`, `CODESYS`, `EasySoft,` ![ROS 2](https://img.shields.io), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoCol)
+Siemens `Step 7` and  `LogoSoft`, `CODESYS`, `EasySoft,` ![ROS 2](https://img.shields.io/badge/ROS-darkblue?logo=ros), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoCol)
 
 ---
 
