@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 ![ROS 2](https://img.shields.io/badge/ROS_2-34455e?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+
 ---
+
 
 ### - Operating Systems I use :
 
@@ -60,6 +62,7 @@ Here are some ideas to get you started:
 
 
 ---
+
 
 ### Documentation Tools:
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) 
