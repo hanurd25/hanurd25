@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 
-### - Has Special interests within🔎:
+### - Have Special interests within🔎:
 - Control systems engineering
 - Data analytics
 - Machine learning
