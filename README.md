@@ -40,10 +40,14 @@ Here are some ideas to get you started:
 
 
 ### - industrial programming
-Siemens `Step 7` and  `LogoSoft`, `CODESYS`, `EasySoft` `RoboDK`
+![Siemens Step 7](https://img.shields.io/badge/Step_7-0066CC?style=for-the-badge&logo=siemens&logoColor=white)
+![CODESYS](https://img.shields.io/badge/CODESYS-FF0000?style=for-the-badge)
+![Siemens LogoSoft](https://img.shields.io/badge/LogoSoft-0066CC?style=for-the-badg)
+![EasySoft](https://img.shields.io/badge/EasySoft-003366?style=for-the-badge)  
+![RoboDK](https://img.shields.io/badge/RoboDK-0099FF?style=for-the-badge)
 
 
-![ROS 2](https://img.shields.io/badge/ROS-darkblue?logo=ros), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoCol)
+![ROS 2](https://img.shields.io/badge/ROS_2-34455e?style=for-the-badge&logo=ros&logoColor=white), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoCol)
 
 ---
 
@@ -54,6 +58,12 @@ Siemens `Step 7` and  `LogoSoft`, `CODESYS`, `EasySoft` `RoboDK`
 
 
 ---
+
+### Documentation Tools:
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white), ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white), ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white)
+
+
+
 
 <!--
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
