@@ -45,9 +45,8 @@ Here are some ideas to get you started:
 ![Siemens LogoSoft](https://img.shields.io/badge/LogoSoft-0066CC?style=for-the-badg)
 ![EasySoft](https://img.shields.io/badge/EasySoft-003366?style=for-the-badge)  
 ![RoboDK](https://img.shields.io/badge/RoboDK-0099FF?style=for-the-badge)
-
-
-![ROS 2](https://img.shields.io/badge/ROS_2-34455e?style=for-the-badge&logo=ros&logoColor=white), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoCol)
+![ROS 2](https://img.shields.io/badge/ROS_2-34455e?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoCol)
 
 ---
 
