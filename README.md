@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 <!--#  ✨!
 -->
-### - Cybernetics & robotics student based in Trondheim 📍
+### - Cybernetics & robotics student in Trondheim 📍
 
 ---
 
 
-### - Have Special interests within🔎:
+### - Special interests within🔭:
 - Control systems engineering
 - Data analytics
 - Machine learning
