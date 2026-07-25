@@ -25,7 +25,7 @@ I have interests in fields like:
 - Data analytics
 - Machine learning
 
-On GitHub, I have repositories spanning data collection and analytics, with GitHub Actions, small games, and control systems engineering, to name a few. I currently work in an Ubuntu environment, which is reflected in the compatibility of several of my repositories.
+On GitHub, I have repositories for data collection and analytics, with GitHub Actions, small games, and control systems engineering, to name a few. I currently work in an Ubuntu environment, which is reflected in the compatibility of several of my repositories.
 
 ---
 ### 🛠️ Programming languages I use
