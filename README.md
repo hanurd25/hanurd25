@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 -->
 <!--#  ✨!
 -->
-###  About💬:
-I'm a cybernetics & robotics student in Trondheim 📍
+###  About:
+Cybernetics & robotics student in Trondheim 📍
 
-I have interests in fields like:
-- Control systems engineering
-- Data analytics
-- Machine learning
 
 On GitHub, I have repositories for data collection and analytics, with GitHub Actions, small games, and control systems engineering, to name a few. I currently work in an Ubuntu environment, which is reflected in the compatibility of several of my repositories.
 
