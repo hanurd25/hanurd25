@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ###  About:
 Cybernetics & robotics student in Trondheim 📍
 
-
+<!--
 On GitHub, I have repositories for data collection and analytics, with GitHub Actions, small games, and control systems engineering, to name a few. I currently work in an Ubuntu environment, which is reflected in the compatibility of several of my repositories.
-
+-->
 ---
-### 🛠️ Programming languages I use
+###  Programming languages I use
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -34,7 +34,7 @@ On GitHub, I have repositories for data collection and analytics, with GitHub Ac
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-### 🎛️ Industrial programming
+###  Industrial programming
 ![Siemens Step 7](https://img.shields.io/badge/Step_7-0066CC?style=for-the-badge&logo=siemens&logoColor=white)
 ![LogoSoft](https://img.shields.io/badge/LogoSoft-0066CC?style=for-the-badge)
 ![CODESYS](https://img.shields.io/badge/CODESYS-FF0000?style=for-the-badge)
